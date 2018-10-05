@@ -1,4 +1,4 @@
-﻿Imovel_ID,Preço,Area,Latitude,Longitude,Qtde_Quartos,Qtde_Banheiros,Qtde_Suites,Vagas_Garagem,Valor_IPTU,Valor_Cond,Regiao,Bairro,DataExtração,Rua,Numero
+ImovelID,Preço,Area,Latitude,Longitude,Qtde_Quartos,Qtde_Banheiros,Qtde_Suites,Vagas_Garagem,Valor_IPTU,Valor_Cond,Regiao,Bairro,DataExtração,Rua,Numero
 2576940,179000,41,-19.9219328,-43.9431768,1,1,0,0,500,102,centro-sul,Centro,21/08/2018,Rua dos Goitacazes,365
 346562,189000,45,-19.8582916,-43.9199233,2,1,0,1,180,50,norte,Minaslândia (P Maio),21/08/2018,Rua Ana Pereira Menezes,207
 3261749,193500,70.32,-19.889399,-43.942586,3,2,0,1,225,70,nordeste,Cachoeirinha,21/08/2018,Rua Indianópolis,717
