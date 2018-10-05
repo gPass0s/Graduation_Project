@@ -1,4 +1,4 @@
-﻿Imovel_ID,Preço,Area,Latitude,Longitude,Qtde_Quartos,Qtde_Banheiros,Qtde_Suites,Vagas_Garagem,Valor_IPTU,Valor_Cond,Regiao,Bairro,DataExtração,Rua,Numero
+ImovelID,Preço,Area,Latitude,Longitude,Qtde_Quartos,Qtde_Banheiros,Qtde_Suites,Vagas_Garagem,Valor_IPTU,Valor_Cond,Regiao,Bairro,DataExtração,Rua,Numero
 2576940,179000,41,-19.9219328,-43.9431768,1,1,0,0,102,500,centro-sul,Centro,25/08/18,Rua dos Goitacazes,365
 346562,189000,45,-19.8582916,-43.9199233,2,1,0,1,50,180,norte,Minaslândia (P Maio),25/08/18,Rua Ana Pereira Menezes,207
 3238778,270000,58,-19.833215,-43.936343,2,2,1,2,66.95,150,norte,Floramar,25/08/18,Rua Cirandinha,70
