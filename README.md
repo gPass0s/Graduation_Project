@@ -5,4 +5,3 @@ This present project aims at making a data analysis of Belo Horizonte apartament
 > To run this project on your command line, type:
 
 $ python3 -W ignore predict.py -e gboost.pickle -c clusters.pickle -z price_zone.csv -s 69.27 -r 3 -b 2  -a 1 -p 2 -t 1.110 -d 0  -l -19.9681 -g -43.9840
-347439.234591
