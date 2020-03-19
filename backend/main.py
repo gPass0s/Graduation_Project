@@ -1,3 +1,12 @@
+#!/usr/bin/python3.6
+
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Dec 07 20:28:51 2018
+Edited on Mon 24 11:42:09 2020
+
+@author: guilherme passos |twiiter: @gpass0s
+"""
 
 import pandas as pd
 import numpy as np
