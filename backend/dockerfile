@@ -1,0 +1,9 @@
+FROM tiangolo/uwsgi-nginx-flask:python3.7
+RUN apt-get update --fix-missing -y && \ 
+	apt-get install -y libpq-dev nginx 
+WORKDIR backend-image/
+COPY . .
+RUN python3 -m pip install --upgrade pip
+RUN python3 -m pip install -r requirements.txt
+EXPOSE 5000
+CMD python3 app.py
