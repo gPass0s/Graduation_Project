@@ -176,7 +176,7 @@
 				delete instance.defaults.headers.common['X-CSRF-TOKEN'];
 				delete instance.defaults.headers.common['X-Requested-With'];
 
-				instance.get('https://maps.googleapis.com/maps/api/geocode/json', { params: {address: this.imovel.endereco + ', Belo Horizonte, Minas Gerais, Brasil', key: 'AIzaSyBK8MpEpH-eK4Od1Lu8c_BLw4Fm85lYieE'} })
+				instance.get('https://maps.googleapis.com/maps/api/geocode/json', { params: {address: this.imovel.endereco + ', Belo Horizonte, Minas Gerais, Brasil', key: ''} })
 					.then((response) => {
 						let results = response.data.results;
 
